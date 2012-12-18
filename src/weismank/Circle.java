@@ -1,3 +1,8 @@
+/*
+ * SE1021 Lab 3
+ * Circle class
+ * December 18, 2012 
+ */
 package weismank;
 
 import java.awt.Color;
@@ -27,6 +32,7 @@ public class Circle extends Shape {
 	 * and then uses the drawTo method of WinPlotter to draw a sequence of small connected
 	 * straight-line segments. When enough segments are drawn (about 25 segments are
 	 * sufficient), a smooth circle is approximated.
+	 * @param plotter - reference to a WinPlotter object used for drawing
 	 */
 	public void draw(WinPlotter plotter) {
 		this.setPenColor(plotter);

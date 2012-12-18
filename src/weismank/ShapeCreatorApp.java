@@ -1,9 +1,9 @@
-package weismank;
 /*
  * SE1021 Lab 3
  * Shape Creator Application main class
  * December 12, 2011 
  */
+package weismank;
 
 import java.awt.Color;
 import edu.msoe.se1010.winPlotter.WinPlotter;

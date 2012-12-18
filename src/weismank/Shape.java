@@ -1,3 +1,8 @@
+/*
+ * SE1021 Lab 3
+ * Shape abstract class
+ * December 18, 2012 
+ */
 package weismank;
 
 import java.awt.Color;
